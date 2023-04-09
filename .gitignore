@@ -1,0 +1,8 @@
+
+.DS_Store
+.idea/inspectionProfiles/Project_Default.xml
+*.xml
+*.meta
+__pycache__/
+Plastics Classification/
+*.png
